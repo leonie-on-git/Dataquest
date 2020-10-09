@@ -10,3 +10,6 @@ Predict housing prices in Ames, Iowa with linear regression models after heavy f
 Stock market:\
 Generating indicators in time-series analysis to forcast S&P500 closing prices with linear regression.
 
+Bike rentals:\
+Apply decision trees and random forests to predict the number of bike rentals in Washington D.C. depending on time of the day.
+
