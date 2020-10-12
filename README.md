@@ -14,4 +14,4 @@ Bike rentals:\
 Apply decision trees and random forests to predict the number of bike rentals in Washington D.C. depending on time of the day.
 
 Handwritten digits:\
-Image classification to build a handwriting digit classifier using the MNIST Dataset utilizing various neural networks. Improved the accuracy from 86% to 96% by adding neurons and hidden layers.
+Classification of images of handwritten digits using the MNIST Dataset utilizing various neural networks. Improved the accuracy from 86% to 96% by adding neurons and hidden layers.
