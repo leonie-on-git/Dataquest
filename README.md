@@ -18,3 +18,6 @@ Apply decision trees and random forests to predict the number of bike rentals in
 
 Handwritten digits:\
 Classification of images of handwritten digits using the MNIST Dataset utilizing various neural networks. Improved the accuracy from 86% to 96% by adding neurons and hidden layers.
+
+Titanic survival:\
+Applying various machine learning models to predict survivorship of the titanic sinking based on Kaggle's dataset. Extensive feature engineering leads to 84% accuracy with a Random Forest Classifier using the Gini criterion.
