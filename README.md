@@ -1,6 +1,9 @@
 # Dataquest
 Guided projects in machine learning from Dataquest's data science path
 
+Spam filter:\
+Building a spam filter with 98% accuracy based on natural language processing and multinominal Naive Bayes algorithm.
+
 Car sales:\
 Data cleaning and training plus testing to predict car's market price with univariate and multivarite k-nearest neighbours model. Feature selection and hyperparameter optimization to improve prediction accuracy from 83% to 88%.
 
